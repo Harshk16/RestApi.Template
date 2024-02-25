@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8138DFC0-C514-42D4-88C9-7185005910FC}|RestApi.Template.Persistenc\\RestApi.Template.Persistenc.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.persistenc\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8138DFC0-C514-42D4-88C9-7185005910FC}|RestApi.Template.Persistenc\\RestApi.Template.Persistenc.csproj|solutionrelative:restapi.template.persistenc\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.web.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|solutionrelative:restapi.template.web.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.web.api\\restapi.template.web.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|solutionrelative:restapi.template.web.api\\restapi.template.web.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|solutionrelative:restapi.template.web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|solutionrelative:restapi.template.web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.web.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|solutionrelative:restapi.template.web.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8138DFC0-C514-42D4-88C9-7185005910FC}|RestApi.Template.Persistenc\\RestApi.Template.Persistenc.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.persistenc\\context\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8138DFC0-C514-42D4-88C9-7185005910FC}|RestApi.Template.Persistenc\\RestApi.Template.Persistenc.csproj|solutionrelative:restapi.template.persistenc\\context\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template\\RestApi.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestApi.Template\\RestApi.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF4CB58-CDBC-4723-9CF5-D3AACB29DC32}|RestApi.Template.Domain\\RestApi.Template.Domain.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF4CB58-CDBC-4723-9CF5-D3AACB29DC32}|RestApi.Template.Domain\\RestApi.Template.Domain.csproj|solutionrelative:restapi.template.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFA1D356-B7F6-4345-BB07-C959351268DB}|RestApi.Template.Web.Api\\RestApi.Template.Web.Api.csproj|solutionrelative:restapi.template.web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E566204-65CB-4749-9D88-4E76A387FBDD}|RestApi.Template.Infrastructure\\RestApi.Template.Infrastructure.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E566204-65CB-4749-9D88-4E76A387FBDD}|RestApi.Template.Infrastructure\\RestApi.Template.Infrastructure.csproj|solutionrelative:restapi.template.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1515D23-024D-4A1C-B68F-9A1A05F87358}|RestApi.Template.Application\\RestApi.Template.Application.csproj|c:\\work\\my\\work\\restapi.template\\application\\source\\restapi.template.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1515D23-024D-4A1C-B68F-9A1A05F87358}|RestApi.Template.Application\\RestApi.Template.Application.csproj|solutionrelative:restapi.template.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistnce\\Contexts\\ApplicationDbContext.DbSets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestApi.Template.Persistnce\\Contexts\\ApplicationDbContext.DbSets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistnce\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestApi.Template.Persistnce\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "RestApi.Template.Web.Api\\appsettings.json",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\appsettings.json",
+              "RelativeToolTip": "RestApi.Template.Web.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T13:41:41.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Web.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RestApi.Template.Web.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:40:44.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistenc\\Context\\Author.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Persistenc\\Context\\Author.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistenc\\Context\\Author.cs",
+              "RelativeToolTip": "RestApi.Template.Persistenc\\Context\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T11:45:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistenc\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Persistenc\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistenc\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "RestApi.Template.Persistenc\\Context\\ApplicationContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T11:45:06.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Web.Api\\Program.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\Program.cs",
+              "RelativeToolTip": "RestApi.Template.Web.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:40:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Web.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "RestApi.Template.Web.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:00:26.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestApi.Template.Web.Api.http",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\RestApi.Template.Web.Api.http",
+              "RelativeDocumentMoniker": "RestApi.Template.Web.Api\\RestApi.Template.Web.Api.http",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\RestApi.Template.Web.Api.http",
+              "RelativeToolTip": "RestApi.Template.Web.Api\\RestApi.Template.Web.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-18T11:00:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Domain\\Class1.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Domain\\Class1.cs",
+              "RelativeToolTip": "RestApi.Template.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:33:15.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.DbSets.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistnce\\Contexts\\ApplicationDbContext.DbSets.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Persistnce\\Contexts\\ApplicationDbContext.DbSets.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistnce\\Contexts\\ApplicationDbContext.DbSets.cs",
+              "RelativeToolTip": "RestApi.Template.Persistnce\\Contexts\\ApplicationDbContext.DbSets.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:29:10.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistnce\\Class1.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Persistnce\\Class1.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Persistnce\\Class1.cs",
+              "RelativeToolTip": "RestApi.Template.Persistnce\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:25:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestApi.Template.Web.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Web.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestApi.Template.Web.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T11:00:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "RestApi.Template.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:52:53.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "RestApi.Template.Application\\Class1.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template.Application\\Class1.cs",
+              "RelativeToolTip": "RestApi.Template.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:33:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template\\RestApi.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "RestApi.Template\\RestApi.Domain\\Class1.cs",
+              "ToolTip": "C:\\Work\\My\\Work\\RestApi.Template\\Application\\Source\\RestApi.Template\\RestApi.Domain\\Class1.cs",
+              "RelativeToolTip": "RestApi.Template\\RestApi.Domain\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T10:21:36.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
