@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RestApi.Template.Application\RestApi.Template.Application.csproj" />
+    <ProjectReference Include="..\RestApi.Template.Persistenc\RestApi.Template.Persistenc.csproj" />
   </ItemGroup>
 
 </Project>
